@@ -4,7 +4,7 @@
 - [Works](works.md)
 - [Story](contact.md)
 - [Company](company.md)
-- [Recruit](recruit.md)
+- [Career](career.md)
 
 ## Knowledge based Project Management
 
