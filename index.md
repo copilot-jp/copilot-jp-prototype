@@ -6,16 +6,6 @@
 - [Recruit](recruit.md)
 - [Contact](contact.md)
 
-### Graphs Are to Visualize Us in 2021
-
-- Our Scope
-- Our partner's Occupation
-- Communication Tools with Partners
-- Tools for Project
-- Top of StrengthsFinder
-- COPILOT planning and production
-- Project Attributes
-
 ### NEWS
 
 [Facebook](https://www.facebook.com/copilot.jp)
