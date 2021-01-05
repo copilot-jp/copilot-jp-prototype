@@ -2,20 +2,109 @@
 
 ## Works
 
-- [西日本電信電話株式会社](https://copilot.jp/client/ntt-west)
-- [ライオン株式会社](https://copilot.jp/client/lion)
-- [リンナイ株式会社](https://copilot.jp/client/rinnai)
-- [株式会社村田製作所](https://copilot.jp/client/murata)
-- [MITテクノロジーレビュー](https://copilot.jp/client/technologyreview)
-- [トヨタ自動車株式会社](https://copilot.jp/client/toyota)
+### [西日本電信電話株式会社](https://copilot.jp/client/ntt-west)
+
+#### ヘルスケア関連新規事業の企画立案サポート
+
+2019-2020
+ヘルスケア関連新規事業の企画立案プロジェクトにおいて、ファシリテーション、プロジェクトマネジメント、チームビルディング、課題整理、インタビュー等を支援。
+
+#### 軽度認知障害検知のための研究施策実施サポート
+
+2019
+IoTとAIを用いた軽度認知障害（MCI）検知を目指して、複数の自治体と連携しながら研究施策（PoC）を進めるプロジェクトにおいて、ミーティングファシリテーションを担当。
+
+### [リンナイ株式会社](https://copilot.jp/client/rinnai)
+
+#### 新製品開発・ブランディング支援
+
+2019-2020
+リンナイ株式会社の新製品開発・新規事業開発におけるブランドパートナーとして、スタジオディテイルズ・ビーズアンドハニー・コパイロツトの3社による協働チームは、新製品の給湯システム「Micro Bubble Bath Unit（マイクロバブルバスユニット）」のブランディングから、各種プロモーション、営業ツールまでを一気通貫でプロデュース・制作いたしました。
+
+### [株式会社村田製作所](https://copilot.jp/client/murata)
+
+#### 技術記事サイト構築・運用・記事コンテンツ制作
+
+2018-
+オウンドメディア新規構築フェーズのプロデュース、プロジェクトマネジメント。運用フェーズの課題抽出と課題解決サポートを担当。
+記事コンテンツ制作のプロデュース、プロジェクトマネジメントを担当。
+
+### [ライオン株式会社](https://copilot.jp/client/lion)
+
+#### IoTハブラシ（デバイス・アプリ）の製品ローンチ支援
+
+2019
+子ども向けIoTハブラシ（デバイス・アプリ）の製品ローンチプロジェクトにおいて、アプリ制作のプロジェクトマネジメント、会議のファシリテーションなどを担当。
+
+### [MITテクノロジーレビュー](https://copilot.jp/client/technologyreview)
+
+#### MITテクノロジーレビュー
+
+2015-
+1899年に創設された世界でもっとも歴史と権威があるテクノロジー誌「MIT Technology Review」の日本版。日本のテクノロジー界の活性化を目指し、2016年10月に創刊。
+総合プロデュースとアドバイザリーコミュニティ運営、イベントを担当。
+
+### [トヨタ自動車株式会社](https://copilot.jp/client/toyota)
+
+#### トヨタ自動車ウェブサイト（toyota.jp）-21車種サイト制作-
+
+2016-2017
+コンパクトカー車種ページ制作のディレクションを皮切りに、21種の車種ページ全体の制作・公開のための体制作り、制作フロー作り、プロダクションとのチーミングを担当。
+
+#### フォーマットリニューアル / デザインガイドライン制作
+
+2017-2018
+トヨタ自動車ウェブサイト（toyota.jp）の車種ページリニューアル方針策定をはじめ、サイト構成の設計や制作、制作後の運用効率を考慮したデザインガイドライン策定のサポートを担当。
+
+#### TNGA
+
+2015
+TOYOTA社の車づくりにおける新しいプラットフォーム「TNGA」のコンセプトサイト。弊社では動画やCGなどの素材管理などPMサポートを担当。
+
+#### Dream Car Collection | Toyota Dream Car Art Contest
+
+2015
+第9回を迎えた、子供たちが自由な発想で夢のクルマを描く「Toyota Dream Car Art Contest」のキャンペーン「Dream Car Collection」。サイトのプロデュース、ディレクションを担当。
+
 
 ## Projects
 
-- [MIT Technology Review](https://www.technologyreview.jp/)
-- [Art Buyer Projects](https://copilot.jp/artbuyer)
-- [Cloud Social Investment](https://arunseed.jp/cloudsocialinvestment/)
-- [Manifesto Awards](http://www.local-manifesto.jp/manifestoaward/)
-- [cut-in](http://cut-jp.org/)
-- [Takuro Someya Contemporary Art](https://tsca.jp/)
-- [andu amet](http://www.anduamet.com/en/)
-- [CineBlocks](http://cineblocks.com/)
+### [MIT Technology Review](https://www.technologyreview.jp/)
+
+世界で最も歴史と権威があるテクノロジー誌の日本版を共同事業として創刊。日本のテクノロジー界の活性化を目指すメディア。
+プロデュース、コミュニティマネジメント、イベント
+
+### [Art Buyer Projects](https://copilot.jp/artbuyer)
+
+現代アートによる社会への影響力を最大限に活かし、クライアントとアーティスト、社会とアートを繋げる自社プロジェクト。
+プロデュース
+
+### [Cloud Social Investment](https://arunseed.jp/cloudsocialinvestment/)
+
+日本企業の寄付金を、世界のソーシャルビジネスへ投資（社会的投資）することで社会課題の解決を促す。
+プロデュース、プロジェクトマネジメント
+
+### [Manifesto Awards](http://www.local-manifesto.jp/manifestoaward/)
+
+地方自治体の首長、議員、地域主権を支える市民の活動実績を募集・表彰し、発表するマニフェスト大賞。
+企画、制作、運用、ブランディング
+
+### [cut-in](http://cut-jp.org/)
+
+社会貢献に寄与するプロジェクトをマネジメントし、プロデュース型人材を発掘・育成・ネットワーク化するNPO。
+プロデュース、プロジェクトマネジメント
+
+### [Takuro Someya Contemporary Art](https://tsca.jp/)
+
+絵画、彫刻など伝統的なメディアから映像、写真、インスタレーションを扱う幅広い作家を抱える現代美術ギャラリー。
+企画、運営、ブランディング
+
+### [andu amet](http://www.anduamet.com/en/)
+
+最高級の羊皮＜エチオピアシープスキン＞を贅沢に使用した、エシカル×リュクスなレザーブランド。
+ブランディング、マーケティング
+
+### [CineBlocks](http://cineblocks.com/)
+
+映画産業になりうるマテリアルを作り出すことを目的とした映画プロデューサー黒木敬士が率いる映像制作ユニット。
+プロジェクトアドバイザー
