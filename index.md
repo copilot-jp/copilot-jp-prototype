@@ -6,26 +6,29 @@
 - [Recruit](recruit.md)
 - [Contact](contact.md)
 
-### NEWS
-
-[Facebook](https://www.facebook.com/copilot.jp)
-
-[チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
-
-### Pick Up
-
-[SuperGoodMeetings](https://supergoodmeetings.com/)
-
-### Knowledge based Project Management
+## Knowledge based Project Management
 
 コパイロツトでは、多様で複雑化するプロジェクトの成功率を上げる方法論を確立し、実現することをミッションとしています。
 ナレッジマネジメントをベースとしながらプロジェクトオーナーに伴走してサポートし、プロジェクトをより本質的な成功に導いていきます。
 
-## Blog
+### Pick Up
+
+- Blog: [あけましておめでとうございます！2021年はいよいよミーティング活用ツール SuperGoodMeetingsをリリースします。](https://blog.copilot.jp/entry/2021/01/04/093000)
+- News: [チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
+- Service: [SuperGoodMeetings](https://supergoodmeetings.com/)
+- Workflow: [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
+
+### Follow Us
+
+[COPILOT BLOG](https://blog.copilot.jp/)
 
 ブログではナレッジラボのメンバーを中心に、ナレッジマネジメントに関する考え方やこだわり、問題解決のモデル、手法などについて随時更新中！
 日々試行錯誤している自律的な組織運営を目指す取り組みについても発信しています。
 
-[COPILOT BLOG](https://blog.copilot.jp/)
+[Facebook](https://www.facebook.com/copilot.jp)
+
+[Newsletter]()
+
+[Twitter]()
 
 Copyright © 2021 COPILOT Inc. All Rights Reserved.
