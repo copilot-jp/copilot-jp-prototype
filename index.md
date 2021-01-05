@@ -13,10 +13,13 @@
 
 ### Pick Up
 
-- Blog: [あけましておめでとうございます！2021年はいよいよミーティング活用ツール SuperGoodMeetingsをリリースします。](https://blog.copilot.jp/entry/2021/01/04/093000)
-- News: [チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
-- Service: [SuperGoodMeetings](https://supergoodmeetings.com/)
-- Workflow: [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
+#### Blog: [あけましておめでとうございます！2021年はいよいよミーティング活用ツール SuperGoodMeetingsをリリースします。](https://blog.copilot.jp/entry/2021/01/04/093000)
+
+#### News: [チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
+
+#### Service: [SuperGoodMeetings](https://supergoodmeetings.com/)
+
+#### Workflow: [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
 
 ### Follow Us
 
@@ -25,9 +28,11 @@
 ブログではナレッジラボのメンバーを中心に、ナレッジマネジメントに関する考え方やこだわり、問題解決のモデル、手法などについて随時更新中！
 日々試行錯誤している自律的な組織運営を目指す取り組みについても発信しています。
 
-[Facebook](https://www.facebook.com/copilot.jp)
-
 [Newsletter]()
+
+メルマガの内容、発行頻度などを紹介。
+
+[Facebook](https://www.facebook.com/copilot.jp)
 
 [Twitter](https://twitter.com/copilotinc)
 
