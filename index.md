@@ -6,7 +6,7 @@
 - Projects
 - Blog
 - Company
-- Recruit
+- [Recruit](recruit.md)
 - Contact
 - Social
   - Facebook
