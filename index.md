@@ -2,7 +2,7 @@
 
 - [Services](service.md)
 - [Works](works.md)
-- [Story](contact.md)
+- [Story](story.md)
 - [Company](company.md)
 - [Career](career.md)
 
