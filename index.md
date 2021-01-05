@@ -21,6 +21,8 @@
 
 #### Workflow: [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
 
+#### Project: [Project Sprint CODE 2.0 リリース](https://projectsprint.org/)
+
 ### Follow Us
 
 [COPILOT BLOG](https://blog.copilot.jp/)
