@@ -1,6 +1,6 @@
 # COPILOT
 
-- Services
+- [Services](service.md)
 - Workflow
 - Works
 - Projects
@@ -40,6 +40,8 @@
 ## Services
 
 私たちは組織・フェーズを横断して、トータルにプロジェクト推進をサポートします。
+
+[Service](service.md)
 
 ### プロジェクト推進サポート
 
