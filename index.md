@@ -29,6 +29,6 @@
 
 [Newsletter]()
 
-[Twitter]()
+[Twitter](https://twitter.com/copilotinc)
 
 Copyright © 2021 COPILOT Inc. All Rights Reserved.
