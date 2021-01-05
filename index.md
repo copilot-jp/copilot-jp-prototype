@@ -19,7 +19,7 @@
 
 #### Service: [SuperGoodMeetings](https://supergoodmeetings.com/)
 
-#### Workflow: [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
+#### Story: [会議は「事前に設計」するもの。可視化がプロジェクトの進行を加速させる【SuperGoodMeetings導入事例】](https://note.com/sgms/n/n0064b44bbf81)
 
 #### Project: [Project Sprint CODE 2.0 リリース](https://projectsprint.org/)
 
