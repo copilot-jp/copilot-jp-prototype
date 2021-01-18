@@ -44,8 +44,6 @@ FAX.03-5772-2941
 - 企業におけるブランドコンサルテーション
 - 正義の味方ビジネスモデルの確立
 
-[Social Good Ads（ソーシャルグッドアド：共有する価値がある広告）](https://www.slideshare.net/copilot-method/social-good-ads-26825576)
-
 ## Recruit
 
 コパイロツトのWebサイトを見て共感できる方、コパイロツトで一緒に働いてみませんか。
