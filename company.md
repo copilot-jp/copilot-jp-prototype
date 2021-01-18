@@ -1,15 +1,5 @@
 # Company
 
-### Graphs Are to Visualize Us in 2021
-
-- Our Scope
-- Our partner's Occupation
-- Communication Tools with Partners
-- Tools for Project
-- Top of StrengthsFinder
-- COPILOT planning and production
-- Project Attributes
-
 ## 会社名
 
 株式会社コパイロツト (COPILOT Inc.)
