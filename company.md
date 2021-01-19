@@ -1,8 +1,8 @@
 # Company
 
-## Vision Book
+## Vision
 
-[プロジェクト・スプリント宣言](https://projectsprint.org/)
+[プロジェクト・スプリント宣言](https://projectsprint.org/) epub 3.4MB
 
 ## 会社名
 
@@ -56,4 +56,4 @@ FAX.03-5772-2941
 - プロデューサー/プロジェクトマネージャー
 - ナレッジマネージャー
 
-[詳しくはこちら](recruit.md)
+[詳しくはこちら](career.md)
