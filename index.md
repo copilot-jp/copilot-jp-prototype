@@ -44,8 +44,6 @@
 ご相談内容が見当たらない場合は「その他のお問い合わせ」からお問い合わせください。
 
 - [お仕事のご依頼・ご相談はこちら](https://copilot.jp/contact)
-- [パートナー様用お問い合わせ](https://copilot.jp/contact_partner)
-- [その他のお問い合わせ](https://copilot.jp/contact_other)
-- [採用のお問い合わせ](recruit.md)
+- [採用のお問い合わせ](career.md)
 
 Copyright © 2021 COPILOT Inc. All Rights Reserved.
