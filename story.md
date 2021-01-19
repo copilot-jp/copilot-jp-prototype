@@ -3,6 +3,7 @@
 プロジェクトがどのような背景やプロセスで進行し、どのようにチームづくりやマネジメントしているか、その一部を定期的にご紹介していきます。クライアントワークと自社プロジェクトを効果的に結びつけ、共にメリットとなる解決法を考えていきます。
 
 - 2020.12.11 [会議は「事前に設計」するもの。可視化がプロジェクトの進行を加速させる【SuperGoodMeetings導入事例】](https://note.com/sgms/n/n0064b44bbf81)
+- 2020.7.22 [コパイロツト勉強会: 技術をベースにした新規事業の立ち上げ方 Pegara/ペガラジャパン市原俊亮氏](https://peatix.com/event/1542418/)
 - 2018.12.20 [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
 - 2018.9.19 [Global Editors Network – Tokyo Editors Lab](https://copilot.jp/workflow/1039)
 - 2017.9.4 [マネックス証券](https://copilot.jp/workflow/762)
