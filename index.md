@@ -1,7 +1,7 @@
 # COPILOT
 
 - [Services](service.md)
-- [Works](works.md)
+- [Projects](projects.md)
 - [Story](story.md)
 - [Company](company.md)
 - [Career](career.md)
