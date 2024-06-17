@@ -136,8 +136,3 @@ FAX.03-5772-2941
 
 
 ## NEWS
-
-[Facebook](https://www.facebook.com/copilot.jp)
-
-[チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
-
