@@ -1,86 +1,71 @@
 # COPILOT
 
+- Index(top)
 - Services
-- Workflow
-- Works
-- Projects
-- Blog
+ - Project Successサービス詳細
+ - Project Enablementサービス詳細
+ - Method/Toolsサービス詳細
+- Project
+- Knowledge
 - Company
 - [Recruit](recruit.md)
 - Contact
+- News
+- Privacy Policy
+- Security Policy
+- OtherLink
+  - Project Sprint
+  - SuperGoodMeetings
+  - Project Sprint Quest
 - Social
+  - X
   - Facebook
-  - Twitter
+  - Newsletter
+  - YouTube
+  - Speaker Deck
 
-### Graphs Are to Visualize Us in 2021
+## Message
 
-- Our Scope
-- Our partner's Occupation
-- Communication Tools with Partners
-- Tools for Project
-- Top of StrengthsFinder
-- COPILOT planning and production
-- Project Attributes
+プロジェクトって、むずかしい。
+コパイロツトは2005年から、プロジェクトとプロジェクトを進めることについて考え続けてきた会社です。そもそも「プロジェクト」とは何なのか——その問いを起点とし、私たち自身も未だに悪戦苦闘しながら探究を重ねています。
 
-### NEWS
+プロジェクトをスムーズに推進するためには、実にさまざまな要素が必要です。
 
-[Facebook](https://www.facebook.com/copilot.jp)
+適切な目的設定とゴールに向けた推進設計はもちろんのこと、環境変化に応じた舵取りや意思決定、チームビルディングやファシリテート、メンバーのケアなどまで、洗い出してみるときりがありません。
 
-[チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
+そりゃあ、難しいわけですよね。
 
-### Pick Up
+だから私たちは、みなさんとともにさまざまなプロジェクトで実践を重ねながら、そのノウハウや方法論をコツコツとまとめて提供しています。
 
-[SuperGoodMeetings](https://supergoodmeetings.com/)
+すべてのプロジェクトには、一つひとつ異なる目的があります。決められたゴールに向かって、最短距離でダッシュする。時間をかけて人間関係を深め、「いいチームづくり」を目指す。未知のゴールを探りながら、新しいものを創造していく ——。
 
-### Knowledge based Project Management
+ひとつだけ言えるのは、どんなプロジェクトも、まずは一歩を踏み出さなければ何の結果も得られないということ。
 
-コパイロツトでは、多様で複雑化するプロジェクトの成功率を上げる方法論を確立し、実現することをミッションとしています。
-ナレッジマネジメントをベースとしながらプロジェクトオーナーに伴走してサポートし、プロジェクトをより本質的な成功に導いていきます。
+私たちがこれまでに支援してきた数々のプロジェクトでは、チームを組み、小さな挑戦を重ねるところから、進化し続ける目的に合わせたプロジェクト推進の道を構築してきました。
+
+まずは目の前のプロジェクトを捉え直すことから、私たちとご一緒してみませんか？
+
+## コパイロツトが行う2つの活動
+### 実践
+企業のみなさまと一緒にプロジェクトを推進します
+企業のみなさまと一緒に知恵を絞りながら、外部環境や組織の状態に即したプロジェクト推進の在り方をご提案し、目的を達成するために伴走します。
+
+### 探究
+プロジェクトとの関わり方、方法論をアップデートし続けます
+これまで自分たちが実践してきたナレッジをメソッドとしてまとめ、日々研究を重ねながらアップデートを続けています。
 
 ## Services
 
-私たちは組織・フェーズを横断して、トータルにプロジェクト推進をサポートします。
+## Project
+- Services
+ - Project Successサービス詳細
+ - Project Enablementサービス詳細
+ - Method/Toolsサービス詳細
+- Project
 
-### プロジェクト推進サポート
+## Knowledge
 
-
-### Methods & Tools by COPILOT
-
-[projectsprint.copilot.jp](https://projectsprint.copilot.jp/)
-
-## Workflow
-
-プロジェクトがどのような背景やプロセスで進行し、どのようにチームづくりやマネジメントしているか、その一部を定期的にご紹介していきます。クライアントワークと自社プロジェクトを効果的に結びつけ、共にメリットとなる解決法を考えていきます。
-
-- [VML × COPILOT -ワンチームとなって進む](https://copilot.jp/workflow/1077)
-- [Global Editors Network – Tokyo Editors Lab](https://copilot.jp/workflow/1039)
-
-## Works
-
-- [西日本電信電話株式会社](https://copilot.jp/client/ntt-west)
-- [ライオン株式会社](https://copilot.jp/client/lion)
-- [リンナイ株式会社](https://copilot.jp/client/rinnai)
-- [株式会社村田製作所](https://copilot.jp/client/murata)
-- [MITテクノロジーレビュー](https://copilot.jp/client/technologyreview)
-- [トヨタ自動車株式会社](https://copilot.jp/client/toyota)
-
-## Projects
-
-- [MIT Technology Review](https://www.technologyreview.jp/)
-- [Art Buyer Projects](https://copilot.jp/artbuyer)
-- [Cloud Social Investment](https://arunseed.jp/cloudsocialinvestment/)
-- [Manifesto Awards](http://www.local-manifesto.jp/manifestoaward/)
-- [cut-in](http://cut-jp.org/)
-- [Takuro Someya Contemporary Art](https://tsca.jp/)
-- [andu amet](http://www.anduamet.com/en/)
-- [CineBlocks](http://cineblocks.com/)
-
-## Blog
-
-ブログではナレッジラボのメンバーを中心に、ナレッジマネジメントに関する考え方やこだわり、問題解決のモデル、手法などについて随時更新中！
-日々試行錯誤している自律的な組織運営を目指す取り組みについても発信しています。
-
-[COPILOT BLOG](https://blog.copilot.jp/)
+## Company
 
 ## Company
 
@@ -149,4 +134,10 @@ FAX.03-5772-2941
 - [パートナー様用お問い合わせ](https://copilot.jp/contact_partner)
 - [その他のお問い合わせ](https://copilot.jp/contact_other)
 
-Copyright © 2021 COPILOT Inc. All Rights Reserved.
+
+## NEWS
+
+[Facebook](https://www.facebook.com/copilot.jp)
+
+[チームでプロジェクトを推進するためのメソッド・ツール](https://projectsprint.copilot.jp/)のページを公開しました
+
