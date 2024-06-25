@@ -17,15 +17,15 @@ DX・デジタルマーケティングなどの領域を中心に、プロジェ
 
 プロジェクトリーダー支援を中心に、方針策定、課題の発見・整理、チームビルディング、マイルストーン設計、タスクの進捗管理などプロジェクト推進全体を直接支援します。
 
-Project Successサービス紹介
+[Project Successサービス紹介](./services/project-success.md)
 
 ### Project Enablement チームでプロジェクトを推進できる状態を構築
 
 プロジェクトマネージャーだけでなく、プロジェクトメンバー全員で、状況に適応しながらプロジェクトを推進できる状態の実現を支援します。
 
-Project Enablementサービス紹介
+[Project Enablementサービス紹介](./services/knowledge.md)
 
 ### Method/Tools　プロジェクト推進をメソッドとツールで支援
 プロジェクト推進の実践知を元にみんなでプロジェクトを推進するためのフレームワークを公開。また、定例会議を活用したプロジェクト推進を実現するクラウドサービスを提供しています。
 
-Method/Toolsサービス紹介
+[Method/Toolsサービス紹介](./services/method.md)
