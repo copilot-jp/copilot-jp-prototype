@@ -62,7 +62,7 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 プロジェクトマネジメント・ナレッジマネジメント・組織づくりについてコパイロツトが日々の実践を通じて考えていることをお伝えする[ブログメディア](https://blog.copilot.jp/
 )。
 
-### Contact
+## Contact
 
 お問い合わせ内容をお選びください。
 ご相談内容が見当たらない場合は「その他のお問い合わせ」からお問い合わせください。
@@ -72,7 +72,7 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 - [その他のお問い合わせ](https://copilot.jp/contact_other)
 
 
-## NEWS
+## MENU
 
 - Index(top)
 - [TOP Message](TopMessage.md)
