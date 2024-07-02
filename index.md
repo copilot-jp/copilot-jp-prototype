@@ -12,8 +12,8 @@
 - [Recruit](recruit.md)
 - Contact
 - [News](news.md)
-- Privacy Policy
-- Security Policy
+- [Privacy Policy](PrivacyPolicy.md)
+- [Security Policy](SecurityPolicy.md)
 - OtherLink
   - Project Sprint
   - SuperGoodMeetings
