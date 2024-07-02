@@ -3,9 +3,9 @@
 - Index(top)
 - [TOP Message](TopMessage.md)
 - [Services](Services.md)
-  - Project Successサービス詳細
-  - Project Enablementサービス詳細
-  - Method/Toolsサービス詳細
+  - [Project Successサービス詳細](./services/project-success.md)
+  - [Project Enablementサービス詳細](./services/project-enablement.md)
+  - [Method/Toolsサービス詳細](./services/method.md)
 - Project
 - Knowledge
 - Company
