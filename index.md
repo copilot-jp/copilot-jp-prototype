@@ -72,7 +72,7 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 - [その他のお問い合わせ](https://copilot.jp/contact_other)
 
 
-## List
+## SiteMap
 
 - Index(top)
 - [TOP Message](TopMessage.md)
