@@ -7,11 +7,11 @@
   - [Project Enablementサービス詳細](./services/project-enablement.md)
   - [Method/Toolsサービス詳細](./services/method.md)
 - Project
-- Knowledge
-- Company
+- [COPILOT Knowledge](blog_copilotknowledge.md)
+- [Company](company.md)
 - [Recruit](recruit.md)
 - Contact
-- News
+- [News](news.md)
 - Privacy Policy
 - Security Policy
 - OtherLink
