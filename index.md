@@ -89,12 +89,12 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 - [Privacy Policy](PrivacyPolicy.md)
 - [Security Policy](SecurityPolicy.md)
 - OtherLink
-  - Project Sprint
-  - SuperGoodMeetings
-  - Project Sprint Quest
+  - [Project Sprint](https://www.projectsprint.org/)
+  - [SuperGoodMeetings](https://supergoodmeetings.com/)
+  - [Project Sprint Quest](https://quest.projectsprint.org/)
 - Social
-  - X
-  - Facebook
-  - Newsletter
-  - YouTube
-  - Speaker Deck
+  - [X](https://x.com/copilotinc)
+  - [Facebook](https://www.facebook.com/copilot.jp)
+  - [Newsletter](https://blog.copilot.jp/entry/copilot-newsletter)
+  - [YouTube](https://www.youtube.com/@copilotinc/playlists)
+  - [Speaker Deck](https://speakerdeck.com/copilot)
