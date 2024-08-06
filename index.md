@@ -49,18 +49,15 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 主な実績（作成中）
 
 ## Services
+  - [Project Successサービス詳細](./services/project-success.md)
+  - [Project Enablementサービス詳細](./services/project-enablement.md)
+  - [Method/Toolsサービス詳細](./services/method.md)
 
 
-
-## Project
-- Services
- - Project Successサービス詳細
- - Project Enablementサービス詳細
- - Method/Toolsサービス詳細
-- Project
+## Project（作成中）
 
 ## Knowledge
-プロジェクトマネジメント・ナレッジマネジメント・組織づくりについてコパイロツトが日々の実践を通じて考えていることをお伝えする[ブログメディア](https://blog.copilot.jp/)。
+プロジェクトマネジメント・ナレッジマネジメント・組織づくりについてコパイロツトが日々の実践を通じて考えていることをお伝えする[ブログ](https://blog.copilot.jp/)。
 
 ## Contact
 
