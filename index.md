@@ -72,7 +72,6 @@ Project Sprintはどなたにでも自由に活用いただけるよう、オー
 ## SiteMap
 
 - Index(top)
-- [TOP Message](TopMessage.md)
 - [Services](Services.md)
   - [Project Successサービス詳細](./services/project-success.md)
   - [Project Enablementサービス詳細](./services/project-enablement.md)
