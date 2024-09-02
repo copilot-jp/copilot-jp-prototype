@@ -37,11 +37,15 @@
 [プロジェクト推進研修プログラム](https://blog.copilot.jp/entry/copilot-training-20230303)
 
 ### SuperGoodMeetings
+
 定例ミーティングを活用して自律的なプロジェクト推進をサポートするクラウドサービス
+
 [https://supergoodmeetings.com/](https://supergoodmeetings.com/)
 
 ### Project Sprint
+
 コパイロツトの実践から生み出された独自のプロジェクト推進メソッド
+
 Project Sprintはどなたにでも自由に活用いただけるよう、オープンソースとして内容を公開しています
 
 [https://www.projectsprint.org/](https://www.projectsprint.org/)
